@@ -2,5 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
-app.R
 
+app.R
+shiny_solar_production_app.R 
+deployApp.R
+
+/rsconnect 
