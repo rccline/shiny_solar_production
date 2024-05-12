@@ -5,6 +5,10 @@
 
 app.R
 shiny_solar_production_app.R 
+shiny_solar_production_azimuth_app_BACKUP.R
+README.html  
+
 deployApp.R
 
+/images 
 /rsconnect 
