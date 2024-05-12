@@ -16,11 +16,16 @@ ui <- fluidPage(
         style = "margin-top: 20px;",
         "Instructions: Enter Longitude and Latitude, and rename the Location.",
         br(),
+        br(),
         "Created by Robert C. Cline", 
         br(),
         "Golden Triangle Land Services, Inc., Sidney, NE",
         br(),
-        "email: rccline@fastmail.fm"
+        "email: rccline@fastmail.fm",
+        br(),
+        "Code availale: https://github.com/rccline/shiny_solar_production.git",
+        br(),
+        "Published under GNU GENERAL PUBLIC LICENSE"
       )
     ),
     mainPanel(
